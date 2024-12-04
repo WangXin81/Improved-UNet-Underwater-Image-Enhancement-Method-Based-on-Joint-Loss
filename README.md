@@ -1,4 +1,6 @@
-# Improved UNet Underwater Image Enhancement Method Based on Joint Loss
+# Optimized UNet framework with a joint loss function for underwater image enhancement
+
+
 
 
 #### [Xin Wang](https://github.com/WangXin81)
